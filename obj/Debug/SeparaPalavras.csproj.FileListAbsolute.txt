@@ -1,0 +1,10 @@
+C:\Users\iluiz\source\repos\SeparaPalavras\bin\Debug\SeparaPalavras.exe.config
+C:\Users\iluiz\source\repos\SeparaPalavras\bin\Debug\SeparaPalavras.exe
+C:\Users\iluiz\source\repos\SeparaPalavras\bin\Debug\SeparaPalavras.pdb
+C:\Users\iluiz\source\repos\SeparaPalavras\obj\Debug\SeparaPalavras.csproj.AssemblyReference.cache
+C:\Users\iluiz\source\repos\SeparaPalavras\obj\Debug\SeparaPalavras.FormPrincipal.resources
+C:\Users\iluiz\source\repos\SeparaPalavras\obj\Debug\SeparaPalavras.Properties.Resources.resources
+C:\Users\iluiz\source\repos\SeparaPalavras\obj\Debug\SeparaPalavras.csproj.GenerateResource.cache
+C:\Users\iluiz\source\repos\SeparaPalavras\obj\Debug\SeparaPalavras.csproj.CoreCompileInputs.cache
+C:\Users\iluiz\source\repos\SeparaPalavras\obj\Debug\SeparaPalavras.exe
+C:\Users\iluiz\source\repos\SeparaPalavras\obj\Debug\SeparaPalavras.pdb
